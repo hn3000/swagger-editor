@@ -60,7 +60,7 @@
     "react-transition-group": "^1.1.1",
     "redux": "^3.x.x",
     "swagger-client": "^3.6.0",
-    "swagger-ui": "^3.13.3",
+    "swagger-ui": "^3.13.4",
     "traverse": "^0.6.6",
     "whatwg-fetch": "^2.0.3"
   },
